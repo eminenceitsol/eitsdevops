@@ -1,2 +1,18 @@
+<<<<<<< HEAD
 rrrrrrrrrrrrrrrrrrrrrrrrrr
 eeeeeeeeeeeeeeeeeeeeeee
+=======
+nsbfmsdbfsdfdsfsdfds
+fdfsdfsdfdsfsdfsd
+sdfdsfsdfsdfd
+sdfsdfdsfds
+sdfdsfdsf
+sdfsdfds
+sdfsdf
+sdfsdf
+sdfds
+sdfsd
+sdfds
+sdfds
+sd
+>>>>>>> 967eff37060b5b9da670a3cb8c87bf1789a10e4f
